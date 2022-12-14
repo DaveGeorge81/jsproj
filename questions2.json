@@ -3,11 +3,11 @@
         {
             "questionNumber": "Fråga 1",
             "question": "Hur många ledamöter sitter i Sveriges riksdag?",
-            "alternatives": { 
-                    "alt1": "348",
-                    "alt2": "349",
-                    "alt3": "350"
-        },
+            "alternatives": [ 
+                    "348",
+                    "349",
+                    "350"
+            ],
             "correct": "349"
         },
         {
