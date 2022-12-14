@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "questionNumber": "Fråga 1",
+            "question": "Hur många ledamöter sitter i Sveriges riksdag?",
+            "alternatives": [
+                {
+                    "alt1": "348",
+                    "alt2": "349",
+                    "alt3": "350"
+                }
+            ],
+            "correct": "349"
+        },
+        {
+            "questionNumber": "Fråga 2",
+            "question": "Vem av följande kungar var INTE son till Gustav Vasa?",
+            "alternatives": [
+                {
+                    "alt1": "Erik XIV",
+                    "alt2": "Johan III",
+                    "alt3": "Gustav II Adolf"
+                }
+            ],
+            "correct": "Gustav II Adolf"
+        },
+        {
+            "questionNumber": "Fråga 3",
+            "question": "Hur många halskotor har en giraff?",
+            "alternatives": [
+                {
+                    "alt1": "12",
+                    "alt2": "19",
+                    "alt3": "7"
+                }
+            ],
+            "correct": "7"
+        },
+        {
+            "questionNumber": "Fråga 4",
+            "question": "Vilken är den sjunde planeten i vårt solsystem?",
+            "alternatives": [
+                {
+                    "alt1": "Uranus",
+                    "alt2": "Neptunus",
+                    "alt3": "Saturnus"
+                }
+            ],
+            "correct": "Uranus"
+        },
+        {
+            "questionNumber": "Fråga 5",
+            "question": "Sju av årets tolv månader har 31 dagar, men hur många har 30?",
+            "alternatives": [
+                {
+                    "alt1": "4",
+                    "alt2": "11",
+                    "alt3": "12"
+                }
+            ],
+            "correct": "11"
+        }
+    ]
+}
